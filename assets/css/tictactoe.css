@@ -1,0 +1,42 @@
+body {
+  background: rgba(82, 207, 217, .5);
+}
+
+img {
+  margin-left: 80px;
+  height: 170px;
+  width: auto;
+}
+
+btn {
+  background-color: #f91a1a; /* RED */
+  color: white;
+  padding: 15px 100px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+td {
+  height: 300px;
+  width: 300px;
+}
+
+.margin_top{
+  margin-top: 25px;
+}
+
+.top {
+  border-top: 5px solid rgb(0, 135, 255);
+}
+
+.bottom {
+  border-bottom: 5px solid rgb(0, 135, 255);
+}
+
+.left {
+  border-left: 5px solid rgb(0, 135, 255);
+}
+
+.right {
+  border-right: 5px solid rgb(0, 135, 255);
+}
